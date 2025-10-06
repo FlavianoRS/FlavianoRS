@@ -1,5 +1,6 @@
-## Hi there 👋
+## Flaviano Rodrigues dos Santos
 
+Sou formado em Engenharia de Controle e Automação pelo IFG - Campus Itumbiara e estudo Inteligência Artificial desde 2020 e programação desde 2014. Desenvolvo projetos de Análise de Dados, RPA, Web Scrappnig e IA onde desenvolvo projetos com Redes Neurais e projetos com LLMs, busco com meus projetos resolver problemas reais e do dia a dia utilizando a programação para automatizar cada processo.
 <!--
 **FlavianoRS/FlavianoRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
